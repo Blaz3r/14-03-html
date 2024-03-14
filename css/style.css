@@ -252,3 +252,79 @@ font-weight: 900;
     font-size: 90px;
 
 }
+.inline-box{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    margin: 10px;
+    display: inline-block;
+}
+.inline-box{
+
+
+}
+.inline-box{
+
+}
+.block{
+background-color: black;
+margin: 10px;
+color: #fff;
+display: block;
+}
+.block{
+
+}
+.invisible{
+    background-color: #a5f;
+    display: none;
+
+}
+.static{
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+margin-bottom: 5px;
+position: static;
+
+}
+.relative{
+    background-color: rgb(103, 69, 182);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 40px;
+
+
+}
+.relative-contair{
+
+}
+.absolute1{
+    position: absolute;
+    background-color: rgb(179, 255, 0);
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    right: 20px;
+
+}
+.absolute2{
+
+}
+.fixed{
+
+}
+.relative-contair{
+
+}
+.absolute3{
+
+}
+.absolute4{
+
+}
+.absolute5{
+
+}
